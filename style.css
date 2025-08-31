@@ -1,0 +1,16 @@
+button{
+    background-color: red;
+    color: white;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 20px;
+
+}
+
+button:hover{
+    background-color:black;
+    transition: 1s;
+    /* transform: rotate(360deg); */
+    box-shadow: 2px  15px 20px black;
+}
